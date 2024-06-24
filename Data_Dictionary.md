@@ -20,11 +20,11 @@
 
 <br>3. The `location` table that contains the following columns; <br>
 - `location_id`: Unique ID assigned to each location <br>
-- `address`: Address of the location.
-<br> - `province_name`:Name of the province where the location is situated.
-<br> - `town_name`: Name of the town where the location is situated
+- `address`: Address of the location. <br>
+- `province_name`:Name of the province where the location is situated.<br> 
+- `town_name`: Name of the town where the location is situated <br>
 
-<br>4. The `water_source`: table that contains the following columns;
-<br>-`source_id`: Unique ID assigned to each water source. INT
-<br>-`type_of_water_source`: Type or category of the water source. Can be: tap_in_home, tap_in_home_broken, well, shared_tap, river.
-<br>-`Number_of_people_served`: Number of people served by this water source.
+4. The `water_source`: table that contains the following columns; <br>
+- `source_id`: Unique ID assigned to each water source. INT <br>
+- `type_of_water_source`: Type or category of the water source. Can be: tap_in_home, tap_in_home_broken, well, shared_tap, river. <br>
+-`Number_of_people_served`: Number of people served by this water source.
