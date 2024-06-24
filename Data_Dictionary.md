@@ -1,5 +1,5 @@
 # Water Analysis Data Dictionary.
-This data dictionary provides detailed descriptions of the datasets used in the water crisis analysis.
+This data dictionary provides detailed descriptions of the datasets used in the water crisis analysis. <br
 The tables used in this analysis are:
 <br>1. The `employee` table that contains the following columns: <br>
 - `assigned_employee_id`: Unique ID assigned to each employee. <br>
