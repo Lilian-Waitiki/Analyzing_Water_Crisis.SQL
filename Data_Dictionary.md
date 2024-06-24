@@ -19,10 +19,10 @@
 <br>- `assigned_employee_id`: ID of the employee who visited the location.
 
 <br>3. The `location` table that contains the following columns;
-<br>`location_id`: Unique ID assigned to each location
-<br>`address`: Address of the location.
-<br>`province_name`:Name of the province where the location is situated.
-<br>`town_name`: Name of the town where the location is situated
+- <br> `location_id`: Unique ID assigned to each location
+<br>- `address`: Address of the location.
+<br>- `province_name`:Name of the province where the location is situated.
+<br>- `town_name`: Name of the town where the location is situated
 
 <br>4. The `water_source`: table that contains the following columns;
 <br>-`source_id`: Unique ID assigned to each water source. INT
