@@ -18,9 +18,9 @@
 <br>- `time_in_queue`: Time spent by people waiting for water in a queue at the location.
 <br>- `assigned_employee_id`: ID of the employee who visited the location.
 
-<br>3. The `location` table that contains the following columns;
-- <br> `location_id`: Unique ID assigned to each location
-<br> - `address`: Address of the location.
+<br>3. The `location` table that contains the following columns; <br>
+- `location_id`: Unique ID assigned to each location <br>
+- `address`: Address of the location.
 <br> - `province_name`:Name of the province where the location is situated.
 <br> - `town_name`: Name of the town where the location is situated
 
