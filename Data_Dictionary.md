@@ -1,8 +1,8 @@
 <br>The tables used in this analysis are:
 <br>1. The `employee` table that contains the following columns:
-<br>`assigned_employee_id`: Unique ID assigned to each employee.
-<br>`employee_name`: Name of the employee. 
-<br>`phone_number`: Contact number of the employee. 
+<br> `assigned_employee_id`: Unique ID assigned to each employee.
+<br> `employee_name`: Name of the employee. 
+<br> `phone_number`: Contact number of the employee. 
 <br>`email`: Email address of the employee. 
 <br>`address`: Residential address of the employee.
 <br>`town_name`: Name of the town where the employee resides. 
